@@ -1,4 +1,6 @@
 package com.example.primerapp
+import androidx.compose.ui.Alignment
+
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
